@@ -1,9 +1,9 @@
 {
-    "name": "r1pp3rj4ck/TwigstringBundle",
+    "name": "survos/twigstring-bundle",
     "type": "symfony-bundle",
     "description": "Renders strings instead of files with Twig",
     "keywords": ["Twig string"],
-    "homepage": "https://github.com/r1pp3rj4ck/TwigstringBundle",
+    "homepage": "https://github.com/Survos/TwigstringBundle",
     "authors": [
         {
             "name": "Lars Krueger",
